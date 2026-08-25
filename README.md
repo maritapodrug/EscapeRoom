@@ -23,5 +23,5 @@ Full-stack web aplikacija za escape room, razvijena pomoću **Next.js, React, Ty
 
 Projekt su razvile:
 
-* [Marita Podrug]
-* [Jelena Šurlin]
+* Marita Podrug
+* Jelena Šurlin
